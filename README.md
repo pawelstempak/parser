@@ -8,8 +8,8 @@ Parser is a HTML2CSV parser library with ability to quick upgrade to other expor
 3. That's it.
 
 ## Bugs, issues and suggestions
-If you discover any bugs or issues with Octopus CMS, please inform me at pawelstempak@gmail.com.
+If you discover any bugs or issues with Parser, please inform me at pawelstempak@gmail.com.
 
 ## License
 
-The Octpus CMS is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Parser is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

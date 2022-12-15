@@ -1,0 +1,19 @@
+{
+    "name": "user/httpd",
+    "description": "HTML2CSV_PARSER",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paweł Stempak",
+            "email": "pawelstempak@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
